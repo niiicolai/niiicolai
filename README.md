@@ -1,7 +1,3 @@
-# 👋 Hi
-
----
-
 ## 🧪 Projects
 
 ### 🧠 [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer)  
