@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Nicolai
-
-Welcome to my GitHub! I'm a full-stack developer from Denmark who enjoys building things — sometimes practical, sometimes experimental, always with curiosity.
-
-Most of what you’ll find here started with a simple “what if?” and turned into something I wanted to share.
+# 👋 Hi
 
 ---
 
-## 🧪 Projects I'm Grateful to Share
+## 🧪 Projects
 
 ### 🧠 [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer)  
 A small Python tool I made to explore and visualize CPU usage data from `sar` logs. Helpful for understanding system performance.
