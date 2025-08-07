@@ -70,12 +70,3 @@ A simple Discord bot I put together with modular commands and some YouTube integ
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiicolai&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
-
----
-
-## 🤝 Let’s Connect
-
-If you’re working on something interesting — especially something a little unusual — I’d love to hear about it.  
-You can reach me through [LinkedIn](https://www.linkedin.com/in/nicolai-berg-andersen-ab1279b3/) or just by opening an issue or PR on a project.
-
-Thanks for visiting 🌿
