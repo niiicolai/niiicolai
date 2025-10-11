@@ -1,25 +1,29 @@
 ## 🧪 Projects
 
+### 🎭 [TwoEasyEngine](https://github.com/niiicolai/two-easy-engine)  
+A lightweight 2D library built on HTML5 Canvas, providing a simple, object-oriented API for scenes, meshes, cameras, and animations ([Available on NPM](https://www.npmjs.com/package/two-easy-engine)).
+
+---
+
 ### 🧠 [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer)  
-A small Python tool I made to explore and visualize CPU usage data from `sar` logs. Helpful for understanding system performance.
+A small Python tool I made to explore and visualize CPU usage data from `sar` logs.
 
 ---
 
 ### 🌌 [Europa: The Celestial Quest](https://github.com/niiicolai-apps/europa-celestial-quest)  
-A browser-based real-time strategy game set in space. Built from scratch in JavaScript as a personal challenge and a way to learn more about game systems.  
+A cross-platform real-time strategy game set in space.  
 🎥 [Gameplay video](https://www.youtube.com/watch?v=gc0yM8eqkV0)
 
 ---
 
 ### 🛍️ [VR Webshop](https://github.com/VR-web-shop)  
-An experiment to combine VR, 3D tools, and ecommerce.  
-Not something you'd normally need — but I enjoyed figuring out how to make it work.  
+An experiment to combine VR, 3D tools, and ecommerce.
 🎥 [Demo video](https://www.youtube.com/watch?v=gZ16FViAOOE)
 
 ---
 
 ### 🤖 [AI Code Editor](https://github.com/niiicolai/ai-editor)  
-An early attempt at building a code editor powered by AI with tool-calling support. Still evolving.
+A code editor powered by AI with tool-calling support.
 
 ---
 
