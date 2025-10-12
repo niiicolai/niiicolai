@@ -1,7 +1,11 @@
 ## 🧪 Projects
 
 ### 🎭 [TwoEasyEngine](https://github.com/niiicolai/two-easy-engine)  
-A lightweight 2D library built on HTML5 Canvas, providing a simple, object-oriented API for scenes, meshes, cameras, and animations ([Available on NPM](https://www.npmjs.com/package/two-easy-engine)).
+A lightweight 2D library built on HTML5 Canvas, providing a simple, object-oriented API for scenes, meshes, cameras, and animations. 
+
+🛠️ [NPM](https://www.npmjs.com/package/two-easy-engine)
+
+📖 [Documentation](https://niiicolai.github.io/two-easy-engine)
 
 ---
 
