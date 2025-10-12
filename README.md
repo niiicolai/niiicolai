@@ -65,8 +65,7 @@ A simple Discord bot I put together with modular commands and some YouTube integ
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div style="display:flex;gap:1em;">
   <img src="https://github-readme-stats.vercel.app/api?username=niiicolai&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiicolai&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
+</div>
