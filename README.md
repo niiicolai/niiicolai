@@ -7,6 +7,8 @@ A lightweight 2D library built on HTML5 Canvas, providing a simple, object-orien
 
 📖 [Documentation](https://niiicolai.github.io/two-easy-engine)
 
+🖥 [MCP Server](https://github.com/niiicolai/two-easy-engine-mcp-server)
+
 ---
 
 ### 🧠 [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer)  
