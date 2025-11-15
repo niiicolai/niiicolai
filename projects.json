@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "name": "Project Status Dashboard",
+      "status": "done",
+      "startDate": "Sat Nov 15 2025 17:20:32 GMT+0100 (Central European Standard Time)",
+      "description": "Display projects from a data URL in an embeddable iframe.",
+      "website": "https://www.bergandersen.com/widget-project-status-dashboard/",
+      "github": "https://github.com/niiicolai/widget-project-status-dashboard"
+    },
+}
