@@ -1,14 +1,6 @@
 {
   "projects": [
     {
-      "name": "LLM Review Tool",
-      "status": "planned",
-      "startDate": "Sun Nov 16 2025 17:20:32 GMT+0100 (Central European Standard Time)",
-      "description": "A tool to review mistakes in JSDoc definitions, etc.",
-      "website": "",
-      "github": ""
-    },
-    {
       "name": "TwoEasyEngine",
       "status": "in_progress",
       "startDate": "Wed Oct 15 2025 17:20:32 GMT+0100 (Central European Standard Time)",
