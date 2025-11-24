@@ -6,6 +6,11 @@ A lightweight 2D library built on HTML5 Canvas, providing a simple, object-orien
 - [MCP Server](https://github.com/niiicolai/two-easy-engine-mcp-server)
 - [Examples](https://www.bergandersen.com/two-easy-engine/examples/rotation_animation.html)
 
+## Iframe Widgets
+
+- [Project Status Dashboard](https://github.com/niiicolai/widget-project-status-dashboard)
+- [Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker)
+
 ## GitHub Stats
 
 <div style="display:flex;gap:1em;">
