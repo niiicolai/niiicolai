@@ -11,9 +11,3 @@ A lightweight 2D library built on HTML5 Canvas, providing a simple, object-orien
 - [Project Status Dashboard](https://github.com/niiicolai/widget-project-status-dashboard)
 - [Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker)
 
-## GitHub Stats
-
-<div style="display:flex;gap:1em;">
-  <img src="https://github-readme-stats.vercel.app/api?username=niiicolai&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiicolai&layout=compact&theme=gruvbox" alt="Top Languages" />
-</div>
