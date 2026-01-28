@@ -6,8 +6,11 @@ A lightweight 2D library built on HTML5 Canvas, providing a simple, object-orien
 - [MCP Server](https://github.com/niiicolai/two-easy-engine-mcp-server)
 - [Examples](https://www.bergandersen.com/two-easy-engine/examples/rotation_animation.html)
 
-## Iframe Widgets
+## Other Projects
 
-- [Project Status Dashboard](https://github.com/niiicolai/widget-project-status-dashboard)
-- [Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker)
-
+- [Project Status Dashboard](https://github.com/niiicolai/widget-project-status-dashboard) - Display data from an external file on a dashboard.
+- [Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker) - Display GitHub Repository information.
+- [Chat App](https://github.com/niiicolai/chat-app) - A chat app developed for educational purposes to test relational-, document-, and graph-database.
+- [AI Editor](https://github.com/niiicolai/ai-editor) - An AI editor utilizing tools and RAG developed for educational purposes to explore RAG.
+- [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer) - A CPU usage analyzer which includes a GitHub action to test CPU usage in CI/CD workflows.
+- [Discord Bot](https://github.com/niiicolai/discord-bot) - An extentable Discord Bot
