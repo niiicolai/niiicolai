@@ -9,7 +9,8 @@ A lightweight 2D library built on HTML5 Canvas, providing a simple, object-orien
 ## Other Projects
 
 - [Project Status Dashboard](https://github.com/niiicolai/widget-project-status-dashboard) - Display data from an external file on a dashboard.
-- [Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker) - Display GitHub Repository information.
+- [GitHub Repository Tracker](https://github.com/niiicolai/widget-github-repo-tracker) - Display GitHub Repository information.
+- [GitHub User Tracker](https://github.com/niiicolai/widget-github-user-tracker) - Display GitHub User information.
 - [Chat App](https://github.com/niiicolai/chat-app) - A chat app developed for educational purposes to test relational-, document-, and graph-database.
 - [AI Editor](https://github.com/niiicolai/ai-editor) - An AI editor utilizing tools and RAG developed for educational purposes to explore RAG.
 - [SAR CPU Data Analyzer](https://github.com/niiicolai/sar-cpu-data-analyzer) - A CPU usage analyzer which includes a GitHub action to test CPU usage in CI/CD workflows.
