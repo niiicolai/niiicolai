@@ -8,6 +8,13 @@
       "website": "https://learn.bergandersen.com"
     },
     {
+      "name": "Learning Platform",
+      "status": "in_progress",
+      "startDate": "Wed Jan 28 2026 17:20:32 GMT+0100 (Central European Standard Time)",
+      "description": "A place where I share projects developed with AI.",
+      "website": "https://ai.bergandersen.com"
+    },
+    {
       "name": "TwoEasyEngine",
       "status": "in_progress",
       "startDate": "Wed Oct 15 2025 17:20:32 GMT+0100 (Central European Standard Time)",
