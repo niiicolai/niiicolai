@@ -2,21 +2,21 @@
   "projects": [
     {
       "name": "Learning Platform",
-      "status": "in_progress",
+      "status": "done",
       "startDate": "Wed Jan 14 2026 17:20:32 GMT+0100 (Central European Standard Time)",
       "description": "A learning platform where I share technical tutorials.",
       "website": "https://learn.bergandersen.com"
     },
     {
       "name": "AI Projects",
-      "status": "in_progress",
+      "status": "done",
       "startDate": "Wed Jan 28 2026 17:20:32 GMT+0100 (Central European Standard Time)",
       "description": "A place where I share projects developed with AI.",
       "website": "https://ai.bergandersen.com"
     },
     {
       "name": "TwoEasyEngine",
-      "status": "in_progress",
+      "status": "done",
       "startDate": "Wed Oct 15 2025 17:20:32 GMT+0100 (Central European Standard Time)",
       "description": "TwoEasyEngine is a lightweight 2D rendering library built on HTML5 Canvas. It provides a clean, object-oriented API for creating interactive scenes, managing meshes, controlling cameras, and animating objects, with minimal setup.",
       "website": "https://www.bergandersen.com/two-easy-engine/",
