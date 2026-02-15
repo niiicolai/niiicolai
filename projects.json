@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Large Response Detector",
-      "status": "new",
+      "status": "planned",
       "startDate": "Sun Feb 15 2026 17:20:32 GMT+0100 (Central European Standard Time)",
       "description": "A tool for detecting large responses in log files."
     },
