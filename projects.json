@@ -1,13 +1,6 @@
 {
   "projects": [
     {
-      "name": "Large Response Detection",
-      "status": "planned",
-      "startDate": "Sun Feb 15 2026 17:20:32 GMT+0100 (Central European Standard Time)",
-      "description": "A tool for detecting large responses in log files.",
-      "website": "https://bergandersen.com"
-    },
-    {
       "name": "Learning Platform",
       "status": "done",
       "startDate": "Wed Jan 14 2026 17:20:32 GMT+0100 (Central European Standard Time)",
